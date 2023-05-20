@@ -1,13 +1,13 @@
 ```python
 ┌──(root@IDA)-[~/]
-└─$ cat IDA.py
+└─$ cat IDA.rb
 
-class IDA:
-
-def  __social__(self):
- self.gtb = "https://github.com/LeetIDA"
- self.dsc = "IDA#1337" 
- self.ig = "https://instagram.com/lonley.ida"
+class IDA
+  def initialize
+    @Github = "https://github.com/LeetIDA"
+    @Discord = "IDA#1337"
+    @Instagram = "https://instagram.com/lonley.ida"
+  end
   
  ┌──(root@IDA)-[~/]
  └─$
