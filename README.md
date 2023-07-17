@@ -1,4 +1,4 @@
-<h2 align="center">Hello Skids <img src="https://media.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" height="25px"></h2>
+<h2 align="center">Hello Skids <img src="https://x86.pics/logo.svg" height="25px"></h2>
 
 ```python
 ┌──(root@IDA)-[~/]
