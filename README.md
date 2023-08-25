@@ -1,4 +1,4 @@
-<h2 align="center">Hello Skids <img src="https://x86.pics/logo.svg" height="25px"></h2>
+<h2 align="center">Welcome Leet's <img src="https://www.svgrepo.com/show/354273/redhat-icon.svg" height="25px"></h2>
 
 ```python
 ┌──(root@IDA)-[~/]
@@ -17,7 +17,7 @@ class IDA
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,powershell,bash,c,cs,cpp,ruby,js,php,mongodb,mysql,css,html" />
+    <img src="https://skillicons.dev/icons?i=python,powershell,bash,cs,cpp,go,ruby,js,php,mongodb,mysql,css,html" />
   </a>
 </p>
 <h2 align="center"></h2>
