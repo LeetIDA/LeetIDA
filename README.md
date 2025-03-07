@@ -17,7 +17,7 @@ let myIDA = initIDA()
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,powershell,bash,nim,cs,cpp,go,ruby,js,php,mongodb,mysql,css,html" />
+    <img src="https://skillicons.dev/icons?i=python,powershell,bash,nim,swift,cs,cpp,go,ruby,redis,mysql,php,js,css,html" />
   </a>
 </p>
 <h2 align="center"></h2>
