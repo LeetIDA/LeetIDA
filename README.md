@@ -1,4 +1,4 @@
-<h2 align="center">Welcome Leet's <img src="https://www.svgrepo.com/show/354273/redhat-icon.svg" height="25px"></h2>
+<h2 align="center">Welcome Leet's </h2>
 
 ```nim
 ┌──(root@IDA)-[~/]
