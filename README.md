@@ -10,7 +10,7 @@ proc initIDA(): IDA =
   result.Instagram = "https://instagram.com/lonley.ida"
 
 let myIDA = initIDA()
-  
+
  ┌──(root@IDA)-[~/]
  └─$
 ```
@@ -22,4 +22,8 @@ let myIDA = initIDA()
 </p>
 <h2 align="center"></h2>
 
-![](https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LeetIDA/LeetIDA/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LeetIDA/LeetIDA/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/LeetIDA/LeetIDA/output/pacman-contribution-graph.svg">
+</picture>
